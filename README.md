@@ -1,4 +1,4 @@
-# 基于pyramidbox的人头识别
+# 基于PyramidBox的人头识别
 ## 背景 | Background
 * 随着城市商业区的不断扩张和繁荣，越来越多的人在商业区购物，餐饮，寻找休闲和娱乐。繁华的商业区背后隐藏着巨大的危险。在紧急情况下，所有类型的风险将在人群区扩大。近年来，世界范围内发生的许多拥挤和践踏事故引发了对城市商业区管理的警示。
 * With the continuous expansion and prosperity of urban commercial districts, more and more people are shopping, catering, finding leisure and entertainment in the business district. Behind the bustling business district is a huge hidden danger. In the event of an emergency, all types of risks will be amplified in crowd district. In recent years, many crowded and trampling accidents occurred worldwide have fired the alarm for the management of urban business districts.
