@@ -1,11 +1,8 @@
 # 基于pyramidbox的人头识别
 ## 背景 | Background
 * 随着城市商业区的不断扩张和繁荣，越来越多的人在商业区购物，餐饮，寻找休闲和娱乐。繁华的商业区背后隐藏着巨大的危险。在紧急情况下，所有类型的风险将在人群区扩大。近年来，世界范围内发生的许多拥挤和践踏事故引发了对城市商业区管理的警示。
-* Cloudwalk Technology于2015年在中国科学院重庆绿色智能技术研究所孵化.Crowveway还帮助起草和制定了人脸识别国家标准。其技术应用涵盖许多行业，如银行，安全和航空。
-* 2018年，国家发展和改革委员会（NDRC）委托CloudWalk与公安部第一研究所下属的北京中墩一起，负责国家AI项目重点项目的建设，高精度的产业化和应用人脸识别系统。
 * With the continuous expansion and prosperity of urban commercial districts, more and more people are shopping, catering, finding leisure and entertainment in the business district. Behind the bustling business district is a huge hidden danger. In the event of an emergency, all types of risks will be amplified in crowd district. In recent years, many crowded and trampling accidents occurred worldwide have fired the alarm for the management of urban business districts.
-* Cloudwalk Technology has been incubating from the Chongqing Institute of Green and Intelligent Technology, Chinese Academy of Sciences in 2015. Cloudwalk has also helped draft and develop national standard on face recognition. Its technology application covers many industries, such as banking, security, and aviation.
-* In 2018, National Development and Reform Commission (NDRC) entrusted CloudWalk, alongside with Beijing Zhongdun under the First Research Institute of the Ministry of Public Security, for the construction of the key program of National AI Project, the Industrialization and Application of High Accuracy Face Recognition System.
+
 ## 任务 | Task
 * 当我们想要计算一个非常拥挤的场景中有多少人时，我们自然地根据身体的可见部分计算人数，可见部分主要是头部区域。这促使我们检测人头计数，而不是整个以人为本来解决人群计数问题。比赛邀请参与者通过指示每个人的头部矩形的特定位置（x，y，w，h）来设计算法，主要用于检测复杂场景中的人头。其中，x表示x轴上的坐标，y表示y轴上的坐标，w是面矩形的宽度，h是面矩形的长度。
 * When we want to calculate how many people in a very crowded scene, we naturally calculate the number of people based on the visible part of the body, and the visible part is mainly the head area. This drove us to detect head counting rather than the entire human-based to solve crowd counting problem. The contest invites participants to design algorithms, mainly for the detection of human heads in complex scenes, by indicating the specific position (x, y, w, h) of each person's head rectangle. In which, x represents the coordinate on the x axis, and y is the coordinate on the y axis, w is the width of the face rectangle, and h is the length of the face rectangle.
